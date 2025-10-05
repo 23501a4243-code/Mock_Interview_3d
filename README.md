@@ -6,7 +6,7 @@ Tech Stack: Python / JavaScript / Node.js / MongoDB / Tavus Video
 
 # TEAM : Career Catalyst
 # Team Members: 
-Lakshmi Manasa Pedapothula
-Anushika Yadav
-Pranav Kurapati
+Lakshmi Manasa Pedapothula     
+Anushika Yadav    
+Pranav Kurapati     
 Sreenivasa Reddy Kothareddy
